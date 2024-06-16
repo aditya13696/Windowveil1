@@ -1,9 +1,0 @@
-# WindowVeil
-
-Project Title : Windowveil
-
-Technologies I used html, css, javascript, react etc.
-
-Setup download or clone the repository After cloning the files, you will have to run yarn followed by npm start in the CLI
-
-Approach I adopted the BEM naming style for my css class names and ...
